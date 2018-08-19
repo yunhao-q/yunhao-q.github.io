@@ -91,7 +91,9 @@ Advanced Software Development \\
 \location{Over 1000 lines:}
 \textbullet{} JavaScript \textbullet{} CSS \textbullet{} PHP \textbullet{} Ruby \\
 \location{Familiar:}
-\textbullet{} Android \textbullet{} SQL \textbullet{} Mongdb \textbullet{} rabbitmq \textbullet{} Arduino \textbullet{} Labview \textbullet{} Matlab \textbullet{} Sketchup
+\textbullet{} Android \textbullet{} SQL \textbullet{} Mongdb \\
+\textbullet{} rabbitmq \textbullet{} Arduino \textbullet{} Labview \\
+\textbullet{} Matlab \textbullet{} Sketchup
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
