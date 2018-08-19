@@ -126,6 +126,7 @@ Advanced Software Development \\
 \runsubsection{Consensys Academy}
 \descript{| Decentralized Application Developer }
 \location{July 2018 - August 2018 | Brooklyn, NY}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Ability to build smart contracts driven decentralized applications on Ethereum network for business use cases.
 \item Solidity Smart Contract, Full Stack DAPPs, Web3 Integration, Truffle, Token Incentive Design
