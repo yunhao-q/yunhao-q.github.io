@@ -102,7 +102,9 @@ Advanced Software Development \\
 
 \section{Interests}
 
-\textbullet{} Long-distance running \textbullet{}  Urban Dance \textbullet{} Child-related volunteer\\ 
+\textbullet{}  Urban Dance \\
+\textbullet{} Long-distance running \\
+\textbullet{} Child-related volunteer\\ 
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -120,38 +122,39 @@ Advanced Software Development \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
-\sectionsep
-
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\runsubsection{Consensys Academy}
+\descript{| Decentralized Application Developer }
+\location{July 2018 - August 2018 | Brooklyn, NY}
 \begin{tightemize}
-\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\item Ability to build smart contracts driven decentralized applications on Ethereum network for business use cases.
+\item Solidity Smart Contract, Full Stack DAPPs, Web3 Integration, Truffle, Token Incentive Design
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{HackDuke}
+\descript{| Mobile Application Developer }
+\location{Dec 2017 – Dec 2017 | Durham, NC}
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.
-\item Created a backbone.js-like framework for the Captions editor.
+\item Developed an android application to help build personal connections between college students and high school students
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{Trinket}
+\descript{| Web Developer }
+\location{Sep 2017 – Dec 2017 | Durham, NC}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
-\item I created the Meme generator and more in PHP and Shell.
-\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+\item Worked with a Duke alumni on his interactive coding education start-up company 
+\item Developed web pages on interactive Python and Java tutorials 
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Ichunt}
+\descript{| Data Analyst \& Python Programmer}
+\location{May 2017 – Jul 2017 | Shenzhen, China}
+\begin{tightemize}
+\item Managed data with MYSQL and python such as analysing ips that are used to visit the company's website 
+\item Built a large proxy ip pool with Rabbitmq and Mongdb which automatically check and update proxy ips
+\item Extracted huge amount of data from various websites with Python scrapy and updated data automatically
 \end{tightemize}
 \sectionsep
 
