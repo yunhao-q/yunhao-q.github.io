@@ -48,7 +48,7 @@
 \section{Education} 
 
 \subsection{Duke University}
-\descript{BS in Computer Science and Statistics}
+\descript{Bachelor of Science in Computer Science and Statistics}
 \location{Expected May 2021 | Durham, NC}
 \location{ Cum. GPA: 3.77 / 4.0 \\
 Major GPA: 3.93 / 4.0}
@@ -67,20 +67,6 @@ Github:// \href{https://github.com/yunhao-qing}{\bf yunhao-qing} \\
 LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-
-\subsection{Undergraduate}
-Probability \\
-Statistiscs \\
-Data Structure and Algorithm \\
-Database Systems \\
-Software Development \\
-Advanced Software Development \\
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -95,6 +81,19 @@ Advanced Software Development \\
 \textbullet{} rabbitmq \textbullet{} Arduino \textbullet{} Labview \\
 \textbullet{} Matlab \textbullet{} Sketchup
 \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+
+\subsection{Undergraduate}
+Data Structure and Algorithm \\
+Database Systems \\
+Software Development \\
+Advanced Software Development \\
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     INTERESTS
@@ -118,10 +117,10 @@ Advanced Software Development \\
 \begin{minipage}[t]{0.66\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXPERIENCE
+%     Programming EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Experience}
+\section{Programming Experience}
 
 \runsubsection{Consensys Academy}
 \descript{| Decentralized Application Developer }
@@ -145,7 +144,7 @@ Advanced Software Development \\
 \descript{| Web Developer }
 \location{Sep 2017 – Dec 2017 | Durham, NC}
 \begin{tightemize}
-\item Worked with a Duke alumni on his interactive coding education start-up company 
+\item Collaborated with a Duke alumni on his interactive coding education start-up company 
 \item Developed web pages on interactive Python and Java tutorials 
 \end{tightemize}
 \sectionsep
@@ -157,6 +156,31 @@ Advanced Software Development \\
 \item Managed data with MYSQL and python such as analysing ips that are used to visit the company's website 
 \item Built a large proxy ip pool with Rabbitmq and Mongdb which automatically check and update proxy ips
 \item Extracted huge amount of data from various websites with Python scrapy and updated data automatically
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Leadership and Extracurricular Activities
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Leadership and Extracurricular Activities}
+
+\runsubsection{DukeEngage Cape Verde}
+\descript{| Activity Leader }
+\location{July 2018 - August 2018 | Praia, Cape Verde}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Design and implement community outreach and therapeutic services for at risk youth by working closely with the center director, physical therapist, and resident psychologist to design activities that best address the myriad needs of the children. 
+\item Activities includes teaching English language classes, and assisting with classroom painting and renovation, helping prepare meals each day, develop a sports program (soccer, basketball, volleyball), teach arts and crafts, dance, or performing arts, painting murals.
+\item Solidity Smart Contract, Full Stack DAPPs, Web3 Integration, Truffle, Token Incentive Design
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Duke Blockchain Club}
+\descript{| Project Leader }
+\location{May 2018 – present | Durham, NC}
+\begin{tightemize}
+\item Lead students to learn and construct their own decentralized blockchain projects.
 \end{tightemize}
 \sectionsep
 
