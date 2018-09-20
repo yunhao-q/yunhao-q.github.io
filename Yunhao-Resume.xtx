@@ -52,8 +52,8 @@
 \descript{Bachelor of Science in Computer Science \\
 and Statistics}
 \location{Expected May 2021 | Durham, NC}
-\location{ Major GPA: 3.93 / 4.0 \\
-Cum. GPA: 3.77 / 4.0}
+\location{ \textbullet{} Major GPA: 3.93 / 4.0 \\
+\textbullet{} Cum. GPA: 3.77 / 4.0}
 \sectionsep
 
 \subsection{Raffles Institution}
@@ -90,11 +90,10 @@ LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
 
 \section{\underline{Coursework}}
 
-\subsection{Undergraduate}
-Data Structure and Algorithm \\
-Database Systems \\
-Software Development \\
-Advanced Software Development \\
+\textbullet{} Data Structure and Algorithm \\
+\textbullet{} Database Systems \\
+\textbullet{} Software Development \\
+\textbullet{} Advanced Software Development \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Club Involvement
@@ -102,13 +101,13 @@ Advanced Software Development \\
 
 \section{\underline{Club Involvement}}
 
-Women in technology \\
-Duke technology(DTech) Scholar \\
-Society of Women Engineers\\
-Duke Blockchain Club\\
-Duke Investment Club\\
-Duke Go Club\\
-Singapore Students Association\\
+\textbullet{} Women in technology \\
+\textbullet{} Duke technology(DTech) Scholar \\
+\textbullet{} Society of Women Engineers\\
+\textbullet{} Duke Blockchain Club\\
+\textbullet{} Duke Investment Club\\
+\textbullet{} Duke Go Club\\
+\textbullet{} Singapore Students Association\\
 
 
 
@@ -162,8 +161,8 @@ Singapore Students Association\\
 \descript{| Web Developer }
 \location{Sep 2017 – Dec 2017 | Durham, NC}
 \begin{tightemize}
-\item Collaborated with a Duke alumni on his interactive coding education start-up company 
-\item Developed web pages on interactive Python and Java tutorials 
+\item Collaborated with a Duke alumni on his interactive coding education company.
+\item Developed web pages on interactive Python and Java tutorials.
 \end{tightemize}
 \sectionsep
 
