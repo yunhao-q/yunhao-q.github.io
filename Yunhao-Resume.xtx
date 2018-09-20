@@ -129,8 +129,8 @@ Advanced Software Development \\
 \location{July 2018 - August 2018 | Brooklyn, NY}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Ability to build smart contracts driven decentralized applications on Ethereum network for business use cases.
-\item Solidity Smart Contract, Full Stack DAPPs, Web3 Integration, Truffle, Token Incentive Design
+\item Build smart contracts driven decentralized website on Ethereum network that enables instant decentralized transactions.
+\item Gained familiarity with Solidity Smart Contract, Full Stack DAPPs, Web3 Integration, Truffle, Token Incentive Design.
 \end{tightemize}
 \sectionsep
 
@@ -138,7 +138,8 @@ Advanced Software Development \\
 \descript{| Mobile Application Developer }
 \location{Dec 2017 – Dec 2017 | Durham, NC}
 \begin{tightemize}
-\item Developed an android application to help build personal connections between college students and high school students
+\item Worked in a team of 4 to developed an android application prototype to help build personal connections between college students and high school students.
+\item Gained familiarity with Andriod Studio, UI design, Facebook API and Coinbase API.
 \end{tightemize}
 \sectionsep
 
@@ -155,9 +156,10 @@ Advanced Software Development \\
 \descript{| Data Analyst \& Python Programmer}
 \location{May 2017 – Jul 2017 | Shenzhen, China}
 \begin{tightemize}
-\item Managed data with MYSQL and python such as analysing ips that are used to visit the company's website 
-\item Built a large proxy ip pool with Rabbitmq and Mongdb which automatically check and update proxy ips
-\item Extracted huge amount of data from various websites with Python scrapy and updated data automatically
+\item Designed and built a database management system from scratch with another colleague.
+\item Managed data with MYSQL and Python such as analysing ips that are used to visit the company's website 
+\item Built a large proxy IP pool with Rabbitmq and Mongdb which automatically check and update proxy IPs.
+\item Designed algorithm to extract more than 500,000 pieces of data from various websites with Python Scrapy and update data automatically
 \end{tightemize}
 \sectionsep
 
@@ -172,7 +174,8 @@ Advanced Software Development \\
 \location{July 2018 - August 2018 | Praia, Cape Verde}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Designed and implemented community outreach and therapeutic services for at risk youth by working closely with the center director, physical therapist, and resident psychologist to design activities that best address the myriad needs of the children. 
+\item Designed community outreach and therapeutic services that best address the myriad needs of the children with center directors, physical therapists, and resident psychologists.
+\item Implemented the programs with children and teenagers who suffered from sexual harassment, home abuse and mental issues.
 \end{tightemize}
 \sectionsep
 
@@ -180,7 +183,8 @@ Advanced Software Development \\
 \descript{| Project Leader }
 \location{May 2018 – present | Durham, NC}
 \begin{tightemize}
-\item Lead students to learn and construct their own decentralized blockchain projects.
+\item Facilitated communication between industry leaders and students by organising various talks and workshops.
+\item Introduced students to decentralized application development by leading them to learn and construct their own decentralized blockchain projects.
 \end{tightemize}
 \sectionsep
 
