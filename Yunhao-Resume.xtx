@@ -156,10 +156,9 @@ Advanced Software Development \\
 \descript{| Data Analyst \& Python Programmer}
 \location{May 2017 – Jul 2017 | Shenzhen, China}
 \begin{tightemize}
-\item Designed and built a database management system from scratch with another colleague.
-\item Managed data with MYSQL and Python such as analysing ips that are used to visit the company's website 
+\item Designed and built a database management system from scratch with another colleague thatt extract more than 500,000 pieces of data from various websites with Python Scrapy and update data automatically.
+\item Managed data with MYSQL and Python such as analysing ips that are used to visit the company's website.
 \item Built a large proxy IP pool with Rabbitmq and Mongdb which automatically check and update proxy IPs.
-\item Designed algorithm to extract more than 500,000 pieces of data from various websites with Python Scrapy and update data automatically
 \end{tightemize}
 \sectionsep
 
