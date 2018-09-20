@@ -29,7 +29,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Yunhao}{Qing}{ \urlstyle{same}\href{https://yunhao-qing.github.io}{yunhao-qing.github.io}\\
+\namesection{Yunhao}{ \urlstyle{same}\href{https://yunhao-qing.github.io}{yunhao-qing.github.io}\\
 919.813.9616 | \href{mailto:yq50@duke.edu}{yq50@duke.edu}
 }
 
@@ -63,7 +63,7 @@ Cum. GPA: 3.77 / 4.0}
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Links} 
+\section{\underline{Links}} 
 Github:// \href{https://github.com/yunhao-qing}{\bf yunhao-qing} \\
 LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
 
@@ -71,7 +71,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Skills}
+\section{\underline{Skills}}
 \subsection{Programming}
 \location{Over 5000 lines:}
 \textbullet{} Java \textbullet{}  Python \textbullet{} C++ \textbullet{}  LaTeX \\ 
@@ -87,7 +87,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Coursework}
+\section{\underline{Coursework}}
 
 \subsection{Undergraduate}
 Data Structure and Algorithm \\
@@ -100,7 +100,7 @@ Advanced Software Development \\
 %     INTERESTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Interests}
+\section{\underline{Interests}}
 
 \textbullet{}  Urban Dance \\
 \textbullet{} Long-distance running \\
@@ -121,7 +121,7 @@ Advanced Software Development \\
 %     Programming EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Programming Experience}
+\section{\underline{Programming Experience}}
 
 \runsubsection{Consensys Academy}
 \descript{| Decentralized Application Developer }
@@ -164,7 +164,7 @@ Advanced Software Development \\
 %     Leadership and Extracurricular Activities
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Leadership and Extracurricular Activities}
+\section{\underline{Leadership and Extracurricular Activities}}
 
 \runsubsection{DukeEngage Cape Verde}
 \descript{| Activity Leader }
@@ -189,11 +189,11 @@ Advanced Software Development \\
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
+\section{\underline{Awards}} 
 \begin{tabular}{rll}
-2017	     & ACM International Collegiate Programming Contest Regional No.4 Duke No.1\\
 2018	     & North American Invitational Programming Contest Honorable Award\\
 2018	     & Consensys Academy Scholarship 1000 dollars\\
+2017	     & ACM International Collegiate Programming Contest Regional No.4 Duke No.1\\
 
 \end{tabular}
 \sectionsep
