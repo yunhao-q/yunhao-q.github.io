@@ -65,8 +65,8 @@ and Statistics}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{\underline{Links}} 
-Github:// \href{https://github.com/yunhao-qing}{\bf yunhao-qing} \\
-LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
+\textbullet{} Github:// \href{https://github.com/yunhao-qing}{\bf yunhao-qing} \\
+\textbullet{} LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -210,7 +210,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
 \section{\underline{Awards}} 
 \begin{tabular}{rll}
 2018	     & North American Invitational Programming Contest Honorable Award\\
-2018	     & Consensys Academy Scholarship 1000 dollars\\
+2018	     & Consensys Academy Scholarship \$1000\\
 2017	     & ACM International Collegiate Programming Contest Regional No.4 Duke No.1\\
 
 \end{tabular}
