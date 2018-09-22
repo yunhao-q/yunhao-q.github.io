@@ -3,7 +3,7 @@
 % LaTeX Template
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[]{deedy-cover-letter-openfont}
+\documentclass[]{Yunhao-CoverLetter}
 \usepackage{fancyhdr}
  
 \pagestyle{fancy}
