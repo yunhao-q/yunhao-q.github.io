@@ -40,7 +40,6 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\end{minipage} 
 \hfill
 \begin{minipage}[t]{0.66\textwidth} 
 
@@ -88,45 +87,7 @@
 \end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Leadership and Extracurricular Activities
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{\underline{Leadership and Extracurricular Activities}}
-
-\runsubsection{DukeEngage Cape Verde}
-\descript{| Activity Leader }
-\location{July 2018 - August 2018 | Praia, Cape Verde}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\item Designed community outreach and therapeutic services that best address the myriad needs of the children with center directors, physical therapists, and resident psychologists.
-\item Implemented the programs with children and teenagers who suffered from sexual harassment, home abuse and mental issues.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Duke Blockchain Club}
-\descript{| Project Leader }
-\location{May 2018 – present | Durham, NC}
-\begin{tightemize}
-\item Facilitated communication between industry leaders and students by organising various talks and workshops.
-\item Introduced students to decentralized application development by leading them to learn and construct their own decentralized blockchain projects.
-\end{tightemize}
-\sectionsep
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{\underline{Awards}} 
-\begin{tabular}{rll}
-2018	     & North American Invitational Programming Contest Honorable Award\\
-2018	     & Consensys Academy Scholarship \$1000\\
-2017	     & ACM International Collegiate Programming Contest Regional No.4 Duke No.1\\
-
-\end{tabular}
-\sectionsep
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
