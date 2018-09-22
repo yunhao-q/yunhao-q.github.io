@@ -3,7 +3,7 @@
 % LaTeX Template
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[]{yunhao-coverLetter}
+\documentclass[]{Yunhao-CoverLetter}
 \usepackage{fancyhdr}
  
 \pagestyle{fancy}
