@@ -18,74 +18,31 @@
  
 \begin{document}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     LAST UPDATED DATE
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \lastupdated
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     TITLE NAME
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \namesection{\textbf{Yunhao} Qing} {}{ \urlstyle{same}\href{https://yunhao-qing.github.io}{yunhao-qing.github.io}\\
 919.813.9616 | \href{mailto:yq50@duke.edu}{yq50@duke.edu}
 }
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     COLUMN TWO
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \hfill
 \begin{minipage}[t]{0.66\textwidth} 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Programming EXPERIENCE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{letter}
 
-\section{\underline{Programming Experience}}
+\opening{Dear Sir or Madam,}
 
-\runsubsection{Consensys Academy}
-\descript{| Decentralized Application Developer }
-\location{July 2018 - August 2018 | Brooklyn, NY}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\item Build smart contracts driven decentralized website on Ethereum network that enables instant decentralized transactions.
-\item Gained familiarity with Solidity Smart Contract, Full Stack DAPPs, Web3 Integration, Truffle and Token Incentive Design.
-\end{tightemize}
-\sectionsep
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a nisi diam. Morbi consequat facilisis mi, sit amet laoreet velit aliquet quis. Sed a nisi vel augue ultricies blandit. Phasellus et congue dolor, at cursus dui. Integer quis faucibus metus. Vestibulum lobortis ligula in lectus pretium, in placerat lacus iaculis. Mauris nibh erat, condimentum at tortor at, sagittis viverra tortor. Vivamus posuere fermentum eros, rhoncus sagittis nisi imperdiet ac.
 
-\runsubsection{HackDuke}
-\descript{| Mobile Application Developer }
-\location{Dec 2017 – Dec 2017 | Durham, NC}
-\begin{tightemize}
-\item Worked in a team of 4 to developed an android application prototype to help build personal connections between college students and high school students.
-\item Gained familiarity with Andriod Studio, UI design and Facebook API.
-\end{tightemize}
-\sectionsep
+Pellentesque hendrerit neque quis quam fringilla, vitae vulputate quam bibendum. Fusce in hendrerit mauris. Mauris pretium libero eget convallis mattis. Vivamus nec nisi imperdiet, lacinia diam id, facilisis nulla. Vivamus eleifend augue ut libero tincidunt commodo. Vivamus sodales in lacus vitae dictum. Nam et semper felis. Integer scelerisque accumsan condimentum. Aliquam laoreet erat vitae ornare consequat. Donec enim lacus, rutrum ut dui a, pretium mattis dui. Vivamus vulputate arcu nec congue convallis. Suspendisse faucibus turpis ac neque gravida, vel aliquet mauris tristique. In auctor fringilla nunc, sit amet tristique diam semper ac. Cras egestas nisi eu turpis facilisis, ac scelerisque elit lacinia. Sed eget adipiscing enim. Ut pulvinar ultrices purus ac eleifend.
 
-\runsubsection{Trinket}
-\descript{| Web Developer }
-\location{Sep 2017 – Dec 2017 | Durham, NC}
-\begin{tightemize}
-\item Collaborated with a Duke alumni on his interactive coding education company.
-\item Developed web pages on interactive Python and Java tutorials.
-\end{tightemize}
-\sectionsep
+Proin nunc erat, vestibulum quis tincidunt sit amet, cursus et libero. Aliquam erat volutpat. Sed vel malesuada velit. Vivamus risus arcu, facilisis non mauris sed, interdum varius tellus. Vivamus aliquam vel sapien quis ultricies. Mauris venenatis risus enim, in dapibus quam volutpat in. Vivamus iaculis sapien sit amet massa vehicula, tempus facilisis nulla adipiscing. Mauris ullamcorper pharetra libero, quis sodales dolor blandit et. Donec convallis risus id euismod pharetra. Suspendisse placerat laoreet imperdiet. Praesent malesuada fringilla urna, non sollicitudin erat. Nullam arcu neque, lobortis nec facilisis at, scelerisque ac erat. Nunc quis tincidunt lorem, vitae laoreet enim.
 
-\runsubsection{Ichunt}
-\descript{| Data Analyst \& Python Programmer}
-\location{May 2017 – Jul 2017 | Shenzhen, China}
-\begin{tightemize}
-\item Designed and built a database management system from scratch with another colleague thatt extract more than 500,000 pieces of data from various websites with Python Scrapy and update data automatically.
-\item Managed data with MYSQL and Python such as analysing ips that are used to visit the company's website.
-\item Built a large proxy IP pool with Rabbitmq and Mongdb which automatically check and update proxy IPs.
-\end{tightemize}
-\sectionsep
+\closing{Sincerely,}
+
+
+\end{letter}
 
 
 
