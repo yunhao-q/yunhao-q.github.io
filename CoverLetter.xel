@@ -1,0 +1,220 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Use https://latexonline.cc/ to compile pdf file. 
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+% https://online.sodapdf.com/ edit pdf
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[]{yunhao-resume}
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+ 
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{\textbf{Yunhao} Qing} {}{ \urlstyle{same}\href{https://yunhao-qing.github.io}{yunhao-qing.github.io}\\
+919.813.9616 | \href{mailto:yq50@duke.edu}{yq50@duke.edu}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Education}} 
+
+\subsection{Duke University}
+\descript{Bachelor of Science in Computer Science \\
+and Statistics}
+\location{Expected May 2021 | Durham, NC}
+\location{ \textbullet{} Major GPA: 3.93 / 4.0 \\
+\textbullet{} Cum. GPA: 3.77 / 4.0}
+\sectionsep
+
+\subsection{Raffles Institution}
+\location{Grad. Dec 2016| Singapore}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Links}} 
+\textbullet{} Github:// \href{https://github.com/yunhao-qing}{\bf yunhao-qing} \\
+\textbullet{} LinkedIn://  \href{https://www.linkedin.com/in/yunhao-qing/}{\bf yunhao-qing} \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Skills}}
+\subsection{Programming}
+\location{Over 5000 lines:}
+\textbullet{} Java \textbullet{}  Python \textbullet{} C++ \textbullet{}  LaTeX \\ 
+\location{Over 1000 lines:}
+\textbullet{} JavaScript \textbullet{} CSS \textbullet{} PHP \textbullet{} Ruby \\
+\location{Familiar:}
+\textbullet{} Android \textbullet{} SQL \textbullet{} Mongdb \\
+\textbullet{} rabbitmq \textbullet{} Arduino \textbullet{} Labview \\
+\textbullet{} Matlab \textbullet{} Sketchup
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Coursework}}
+
+\textbullet{} Data Structure and Algorithm \\
+\textbullet{} Database Systems \\
+\textbullet{} Software Development \\
+\textbullet{} Advanced Software Development \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Club Involvement
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Club Involvement}}
+
+\textbullet{} Women in technology \\
+\textbullet{} Duke technology(DTech) Scholar \\
+\textbullet{} Society of Women Engineers\\
+\textbullet{} Duke Blockchain Club\\
+\textbullet{} Duke Investment Club\\
+\textbullet{} Duke Go Club\\
+\textbullet{} Singapore Students Association\\
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     INTERESTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Interests}}
+
+\textbullet{}  Urban Dance \\
+\textbullet{} Long-distance running \\
+\textbullet{} Child-related volunteer\\ 
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Programming EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Programming Experience}}
+
+\runsubsection{Consensys Academy}
+\descript{| Decentralized Application Developer }
+\location{July 2018 - August 2018 | Brooklyn, NY}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Build smart contracts driven decentralized website on Ethereum network that enables instant decentralized transactions.
+\item Gained familiarity with Solidity Smart Contract, Full Stack DAPPs, Web3 Integration, Truffle and Token Incentive Design.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{HackDuke}
+\descript{| Mobile Application Developer }
+\location{Dec 2017 – Dec 2017 | Durham, NC}
+\begin{tightemize}
+\item Worked in a team of 4 to developed an android application prototype to help build personal connections between college students and high school students.
+\item Gained familiarity with Andriod Studio, UI design and Facebook API.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Trinket}
+\descript{| Web Developer }
+\location{Sep 2017 – Dec 2017 | Durham, NC}
+\begin{tightemize}
+\item Collaborated with a Duke alumni on his interactive coding education company.
+\item Developed web pages on interactive Python and Java tutorials.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Ichunt}
+\descript{| Data Analyst \& Python Programmer}
+\location{May 2017 – Jul 2017 | Shenzhen, China}
+\begin{tightemize}
+\item Designed and built a database management system from scratch with another colleague thatt extract more than 500,000 pieces of data from various websites with Python Scrapy and update data automatically.
+\item Managed data with MYSQL and Python such as analysing ips that are used to visit the company's website.
+\item Built a large proxy IP pool with Rabbitmq and Mongdb which automatically check and update proxy IPs.
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Leadership and Extracurricular Activities
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Leadership and Extracurricular Activities}}
+
+\runsubsection{DukeEngage Cape Verde}
+\descript{| Activity Leader }
+\location{July 2018 - August 2018 | Praia, Cape Verde}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Designed community outreach and therapeutic services that best address the myriad needs of the children with center directors, physical therapists, and resident psychologists.
+\item Implemented the programs with children and teenagers who suffered from sexual harassment, home abuse and mental issues.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Duke Blockchain Club}
+\descript{| Project Leader }
+\location{May 2018 – present | Durham, NC}
+\begin{tightemize}
+\item Facilitated communication between industry leaders and students by organising various talks and workshops.
+\item Introduced students to decentralized application development by leading them to learn and construct their own decentralized blockchain projects.
+\end{tightemize}
+\sectionsep
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\underline{Awards}} 
+\begin{tabular}{rll}
+2018	     & North American Invitational Programming Contest Honorable Award\\
+2018	     & Consensys Academy Scholarship \$1000\\
+2017	     & ACM International Collegiate Programming Contest Regional No.4 Duke No.1\\
+
+\end{tabular}
+\sectionsep
+
+\end{minipage} 
+\end{document}  \documentclass[]{article}
